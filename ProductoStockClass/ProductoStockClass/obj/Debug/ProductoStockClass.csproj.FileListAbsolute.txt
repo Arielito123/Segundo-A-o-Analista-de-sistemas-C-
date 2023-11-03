@@ -1,0 +1,6 @@
+C:\c#\Segundo año Analista de sistema\ProductoStockClass\ProductoStockClass\bin\Debug\ProductoStockClass.exe.config
+C:\c#\Segundo año Analista de sistema\ProductoStockClass\ProductoStockClass\bin\Debug\ProductoStockClass.exe
+C:\c#\Segundo año Analista de sistema\ProductoStockClass\ProductoStockClass\bin\Debug\ProductoStockClass.pdb
+C:\c#\Segundo año Analista de sistema\ProductoStockClass\ProductoStockClass\obj\Debug\ProductoStockClass.csprojResolveAssemblyReference.cache
+C:\c#\Segundo año Analista de sistema\ProductoStockClass\ProductoStockClass\obj\Debug\ProductoStockClass.exe
+C:\c#\Segundo año Analista de sistema\ProductoStockClass\ProductoStockClass\obj\Debug\ProductoStockClass.pdb
