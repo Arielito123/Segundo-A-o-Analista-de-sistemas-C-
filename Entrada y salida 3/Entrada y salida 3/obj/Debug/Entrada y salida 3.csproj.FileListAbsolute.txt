@@ -1,0 +1,8 @@
+C:\c#\Segundo año Analista de sistema\Entrada y salida 3\Entrada y salida 3\bin\Debug\Entrada y salida 3.exe.config
+C:\c#\Segundo año Analista de sistema\Entrada y salida 3\Entrada y salida 3\bin\Debug\Entrada y salida 3.exe
+C:\c#\Segundo año Analista de sistema\Entrada y salida 3\Entrada y salida 3\bin\Debug\Entrada y salida 3.pdb
+C:\c#\Segundo año Analista de sistema\Entrada y salida 3\Entrada y salida 3\obj\Debug\Entrada y salida 3.exe
+C:\c#\Segundo año Analista de sistema\Entrada y salida 3\Entrada y salida 3\obj\Debug\Entrada y salida 3.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Entrada y salida 3\Entrada y salida 3\bin\Debug\Entrada y salida 3.exe.config
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Entrada y salida 3\Entrada y salida 3\obj\Debug\Entrada y salida 3.exe
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Entrada y salida 3\Entrada y salida 3\obj\Debug\Entrada y salida 3.pdb
