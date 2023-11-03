@@ -1,0 +1,6 @@
+C:\c#\Segundo año Analista de sistema\ordenamiento Vectores Optimizado\ordenamiento Vectores Optimizado\bin\Debug\ordenamiento Vectores Optimizado.exe.config
+C:\c#\Segundo año Analista de sistema\ordenamiento Vectores Optimizado\ordenamiento Vectores Optimizado\bin\Debug\ordenamiento Vectores Optimizado.exe
+C:\c#\Segundo año Analista de sistema\ordenamiento Vectores Optimizado\ordenamiento Vectores Optimizado\bin\Debug\ordenamiento Vectores Optimizado.pdb
+C:\c#\Segundo año Analista de sistema\ordenamiento Vectores Optimizado\ordenamiento Vectores Optimizado\obj\Debug\ordenamiento Vectores Optimizado.csprojResolveAssemblyReference.cache
+C:\c#\Segundo año Analista de sistema\ordenamiento Vectores Optimizado\ordenamiento Vectores Optimizado\obj\Debug\ordenamiento Vectores Optimizado.exe
+C:\c#\Segundo año Analista de sistema\ordenamiento Vectores Optimizado\ordenamiento Vectores Optimizado\obj\Debug\ordenamiento Vectores Optimizado.pdb
