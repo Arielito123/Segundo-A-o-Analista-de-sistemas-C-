@@ -1,0 +1,8 @@
+C:\c#\Segundo año Analista de sistema\Busqueda Optimizado\Busqueda Optimizado\bin\Debug\Busqueda Optimizado.exe.config
+C:\c#\Segundo año Analista de sistema\Busqueda Optimizado\Busqueda Optimizado\bin\Debug\Busqueda Optimizado.exe
+C:\c#\Segundo año Analista de sistema\Busqueda Optimizado\Busqueda Optimizado\bin\Debug\Busqueda Optimizado.pdb
+C:\c#\Segundo año Analista de sistema\Busqueda Optimizado\Busqueda Optimizado\obj\Debug\Busqueda Optimizado.exe
+C:\c#\Segundo año Analista de sistema\Busqueda Optimizado\Busqueda Optimizado\obj\Debug\Busqueda Optimizado.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Busqueda Optimizado\Busqueda Optimizado\bin\Debug\Busqueda Optimizado.exe.config
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Busqueda Optimizado\Busqueda Optimizado\obj\Debug\Busqueda Optimizado.exe
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Busqueda Optimizado\Busqueda Optimizado\obj\Debug\Busqueda Optimizado.pdb
