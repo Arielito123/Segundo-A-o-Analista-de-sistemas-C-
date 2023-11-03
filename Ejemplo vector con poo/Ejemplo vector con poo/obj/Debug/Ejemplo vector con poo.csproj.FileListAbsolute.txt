@@ -1,0 +1,12 @@
+C:\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\bin\Debug\Ejemplo vector con poo.exe.config
+C:\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\bin\Debug\Ejemplo vector con poo.exe
+C:\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\bin\Debug\Ejemplo vector con poo.pdb
+C:\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\obj\Debug\Ejemplo vector con poo.csprojResolveAssemblyReference.cache
+C:\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\obj\Debug\Ejemplo vector con poo.exe
+C:\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\obj\Debug\Ejemplo vector con poo.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\bin\Debug\Ejemplo vector con poo.exe.config
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\obj\Debug\Ejemplo vector con poo.exe
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\obj\Debug\Ejemplo vector con poo.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\bin\Debug\Ejemplo vector con poo.exe
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\bin\Debug\Ejemplo vector con poo.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Ejemplo vector con poo\Ejemplo vector con poo\obj\Debug\Ejemplo vector con poo.csprojResolveAssemblyReference.cache
