@@ -1,0 +1,8 @@
+C:\c#\Segundo año Analista de sistema\EntradaYsalida1\EntradaYsalida1\bin\Debug\EntradaYsalida1.exe.config
+C:\c#\Segundo año Analista de sistema\EntradaYsalida1\EntradaYsalida1\bin\Debug\EntradaYsalida1.exe
+C:\c#\Segundo año Analista de sistema\EntradaYsalida1\EntradaYsalida1\bin\Debug\EntradaYsalida1.pdb
+C:\c#\Segundo año Analista de sistema\EntradaYsalida1\EntradaYsalida1\obj\Debug\EntradaYsalida1.exe
+C:\c#\Segundo año Analista de sistema\EntradaYsalida1\EntradaYsalida1\obj\Debug\EntradaYsalida1.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\EntradaYsalida1\EntradaYsalida1\bin\Debug\EntradaYsalida1.exe.config
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\EntradaYsalida1\EntradaYsalida1\obj\Debug\EntradaYsalida1.exe
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\EntradaYsalida1\EntradaYsalida1\obj\Debug\EntradaYsalida1.pdb
