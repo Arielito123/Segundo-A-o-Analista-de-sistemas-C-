@@ -1,0 +1,12 @@
+C:\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\bin\Debug\AlumnosLegajoClass.exe.config
+C:\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\bin\Debug\AlumnosLegajoClass.exe
+C:\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\bin\Debug\AlumnosLegajoClass.pdb
+C:\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\obj\Debug\AlumnosLegajoClass.csprojResolveAssemblyReference.cache
+C:\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\obj\Debug\AlumnosLegajoClass.exe
+C:\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\obj\Debug\AlumnosLegajoClass.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\bin\Debug\AlumnosLegajoClass.exe.config
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\obj\Debug\AlumnosLegajoClass.exe
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\obj\Debug\AlumnosLegajoClass.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\bin\Debug\AlumnosLegajoClass.exe
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\bin\Debug\AlumnosLegajoClass.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\AlumnosLegajoClass\AlumnosLegajoClass\obj\Debug\AlumnosLegajoClass.csprojResolveAssemblyReference.cache
