@@ -1,0 +1,9 @@
+C:\c#\Segundo año Analista de sistema\Trabajo_Con_Fechas\Trabajo_Con_Fechas\bin\Debug\Trabajo_Con_Fechas.exe.config
+C:\c#\Segundo año Analista de sistema\Trabajo_Con_Fechas\Trabajo_Con_Fechas\bin\Debug\Trabajo_Con_Fechas.exe
+C:\c#\Segundo año Analista de sistema\Trabajo_Con_Fechas\Trabajo_Con_Fechas\bin\Debug\Trabajo_Con_Fechas.pdb
+C:\c#\Segundo año Analista de sistema\Trabajo_Con_Fechas\Trabajo_Con_Fechas\obj\Debug\Trabajo_Con_Fechas.csprojResolveAssemblyReference.cache
+C:\c#\Segundo año Analista de sistema\Trabajo_Con_Fechas\Trabajo_Con_Fechas\obj\Debug\Trabajo_Con_Fechas.exe
+C:\c#\Segundo año Analista de sistema\Trabajo_Con_Fechas\Trabajo_Con_Fechas\obj\Debug\Trabajo_Con_Fechas.pdb
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Trabajo_Con_Fechas\Trabajo_Con_Fechas\bin\Debug\Trabajo_Con_Fechas.exe.config
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Trabajo_Con_Fechas\Trabajo_Con_Fechas\obj\Debug\Trabajo_Con_Fechas.exe
+C:\NICOHEREDIA\c#\Segundo año Analista de sistema\Trabajo_Con_Fechas\Trabajo_Con_Fechas\obj\Debug\Trabajo_Con_Fechas.pdb
